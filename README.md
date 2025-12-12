@@ -9,6 +9,7 @@ O sistema permite controlar clientes, equipamentos disponíveis e locações rea
 
 O desenvolvimento segue o padrão adotado na Faculdade de Computação da UFMS, utilizando DAO, controladoras específicas, SQLite e arquitetura em camadas.
 Funcionalidades
+
 👤 Clientes
 
 Cadastro de clientes
